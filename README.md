@@ -180,3 +180,6 @@ Frontend will open at: http://localhost:3000
 ## Medical Disclaimer
 
 This tool is for **informational purposes only** and does not constitute medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional for medical decisions.
+echo "" >> README.md
+Due to file size limitations, the CSV data files are not included in this repository.
+
